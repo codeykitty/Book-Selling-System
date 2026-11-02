@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Book Hub">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Book Hub.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
